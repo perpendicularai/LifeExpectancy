@@ -8,7 +8,7 @@ Alternatively, you may download the jupyter notebook that has been included in t
 The dataset can be found in the `data` directory. 
 
 ## Pre-trained model
-A pre-trained `model` can be found in the models directory.
+A pre-trained model can be found in the `models` directory.
 
 
 Have fun and enjoy!
